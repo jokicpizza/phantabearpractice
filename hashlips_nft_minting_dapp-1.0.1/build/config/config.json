@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x8baf12d7548561fFC7d137Baf30BE6B4A7935E69",
+  "SCAN_LINK": "https://polygonscan.com/address/0x8baf12d7548561fFC7d137Baf30BE6B4A7935E69",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Baby Phantabears",
+  "SYMBOL": "Baby Phantabear",
+  "MAX_SUPPLY": 6666,
+  "WEI_COST": 33000000000000000,
+  "DISPLAY_COST": 0.033,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/phantabear",
+  "SHOW_BACKGROUND": true
+}
